@@ -4,7 +4,7 @@ Airbnb Seattle – Full SQL project: schema design, data modeling, and analytica
 
 This project explores real Airbnb data from Seattle using SQL and Python to extract actionable insights on pricing dynamics, occupancy behavior, and listing performance across neighborhoods and room types.
 
-As someone currently relocating to Seattle for my Master's in Business Analytics at the University of Washington, this analysis started as a personal deep-dive into the housing market — but quickly evolved into a full analytics case study. It also connects back to the professional real estate data I explored during my 2024 internship at Engel & Völkers (family office, Paris), where I conducted office acquisition studies and asset performance reviews.
+As someone currently relocating to Seattle for my Master's in Business Analytics at the University of Washington, this analysis started as a personal deep-dive into the housing market — but quickly evolved into a full analytics case study. It also connects back to the professional real estate data I explored during my 2024 internship at Engel & Völkers Seattle, where I conducted market research and statistical modelling for my thesis.
 
 > 🧠 The project is fully SQL-driven and runs inside Google Colab using SQLite. The visualizations are generated using `matplotlib` and `seaborn`.
 
